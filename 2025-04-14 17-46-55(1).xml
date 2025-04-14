@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/hhj284/hhj/refs/heads/main/products.xsd">
+    <product>
+        <category-id>21872</category-id>
+        <category-name>
+            <![CDATA[Funny gifts [21872]]]>
+        </category-name>
+        <title>
+            <![CDATA[15 vnt (mėlyna) Daugiafunkcinis daržovių pjaustytuvas Daržovių pjaustyklė - Daržovių pjaustyklė Rankinė daržovių pjaustyklė - Kubelių daržovių pjaustyklė Pomidorų, bulvių, vaisių, morkų, agurkų, svogūnų pjaustyklė]]>
+        </title>
+        <title-ru>
+            <![CDATA[]]>
+        </title-ru>
+        <title-lv>
+            <![CDATA[15Gb (zils) Daudzfunkcionāls dārzeņu griezējs Dārzeņu griezējs - Dārzeņu griezējs Manuālais dārzeņu griezējs - Kubiņu dārzeņu griezējs Tomātu, kartupeļu, augļu, burkānu, gurķu, sīpolu griezējs]]>
+        </title-lv>
+        <title-ee>
+            <![CDATA[15 tk (sinine) Multifunktsionaalne köögiviljalõikur Köögiviljalõikur – Köögiviljalõikur – Käsitsi köögiviljalõikur – Köögiviljade kuubikulõikur Tomati-, kartuli-, puuvilja-, porgandi-, kurgi-, sibulalõikur]]>
+        </title-ee>
+        <title-fi>
+            <![CDATA[15 KPL (sininen) Monitoiminen vihannesleikkuri Vihannesleikkuri - Vihannesleikkuri Manuaalinen vihannesleikkuri - Kuutiovihannesleikkuri Tomaatti-, peruna-, hedelmä-, porkkana-, kurkku-, sipulileikkuri]]>
+        </title-fi>
+        <long-description>
+            <![CDATA[<p>Keičiami peiliukai leidžia lengvai pjaustyti, pjaustyti ir pjaustyti daržoves. Integruotas smulkinimo dangtis leidžia susmulkinti maistą tiesiai į surinkimo dėklą, nereikia peilio ir pjaustymo lentos. Sandėliavimo talpykloje galite laikyti paruoštas daržoves pjaustyklėje, kol būsite pasiruošę pradėti virti.</p><p>Atsparus rūdims nerūdijantis plienas išlaiko pjovimo aštrumą ir švarias, lygias groteles. Peiliai lengvai atsidaro ir užsidaro. Supjaustykite bulves, pomidorus, agurkus, morkas ir kt.</p><p>Minkšta TPU guminė rankena pagerina svertą, o neslystantis pagrindas užtikrina stabilumą pjovimo metu. naudoti. Saugiai ir lengvai supjaustykite, supjaustykite ir sumalkite vaisius ir daržoves per pusę laiko.</p><p>Be BPA. Šios kompaktiškos virtuvinės malūnėlės matmenys tik 33x12x12cm. Jį galima visiškai išardyti, kad jį būtų lengva valyti ant viršutinės indaplovės lentynos.</p><p>Pastaba: paveikslėlis yra tik nuoroda, žr. tikrąjį gaminį, ačiū. ! ! (daržovės, lėkštės ir kt. neįeina)</p><p>Medžiaga: nerūdijantis plienas</p><p>Spalva: balta dėžutė mėlyna daržovių pjaustyklė</p><p>Gaminio dydis: maždaug 33x12x12cm</p><p>Svoris: apie 700 g</p><p>1 kv.]]>
+        </long-description>
+        <video-youtube>
+            <![CDATA[]]>
+        </video-youtube>
+        <properties>
+            <property>
+                <id>
+                    <![CDATA[]]>
+                </id>
+                <values>
+                    <value>
+                        <![CDATA[]]>
+                    </value>
+                </values>
+            </property>
+        </properties>
+        <colours>
+            <colour>
+                <colour-title></colour-title>
+                <images>
+                    <image>
+                        <url>
+                            <![CDATA[https://s2.loli.net/2023/05/02/d24fOJAu6gQUsKZ.jpg]]>
+                        </url>
+                    </image>
+                    <image>
+                        <url>
+                            <![CDATA[https://m.media-amazon.com/images/I/71HeuIObEYL._AC_SL1500_.jpg]]>
+                        </url>
+                    </image>
+                    <image>
+                        <url>
+                            <![CDATA[https://m.media-amazon.com/images/I/71IzgHu0DiL._AC_SL1500_.jpg]]>
+                        </url>
+                    </image>
+                    <image>
+                        <url>
+                            <![CDATA[https://m.media-amazon.com/images/I/71oVoegiw9L._AC_SL1500_.jpg]]>
+                        </url>
+                    </image>
+                </images>
+                <modifications>
+                    <modification>
+                        <modification-title></modification-title>
+                        <weight>0.2</weight>
+                        <length>0.3</length>
+                        <height>0.05</height>
+                        <width>0.15</width>
+                        <attributes>
+                            <barcodes>
+                                <barcode>
+                                    <![CDATA[6210238298474]]>
+                                </barcode>
+                            </barcodes>
+                            <supplier-code>
+                                <![CDATA[HHQ-WC001]]>
+                            </supplier-code>
+                            <manufacturer-code>
+                                <![CDATA[6210238298474]]>
+                            </manufacturer-code>
+                        </attributes>
+                    </modification>
+                </modifications>
+            </colour>
+        </colours>
+    </product>
+</products>
